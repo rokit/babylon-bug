@@ -15,5 +15,5 @@ canvas, body, html, #overlay {
   left: 0;
   width: 100vw;
   background-color: red;
-  opacity: 0;
+  opacity: 0.1;
 } */
